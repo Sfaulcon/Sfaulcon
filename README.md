@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Sfaulcon
+- 👋 Hi, I’m Shaun Faulkner
 - 👀 I’m interested in South African eSports and gaming in general.
-- 🌱 I’m currently learning Web Development and Mobile Applications.
+- 🌱 I’m currently studying a Degree in software development through Varsity College
